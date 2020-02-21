@@ -1,6 +1,6 @@
 base	equ	12 ;here we set the base value
 exp	equ	2 ;here we set the exponent value
-        mov	r5,#1
+	mov	r5,#1
 	cmp	r5,#exp ;if exp= 1, return base
 	beq	final_3
 	cmp r0,#base ;if base= 0, return ERROR
