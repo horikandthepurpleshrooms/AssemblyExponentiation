@@ -6,7 +6,7 @@ It's the exponentiation process implemented in assembly.
 The main idea behind is the continous addition of values in order to simulate the multiplication process. The registers are used to store numeric data.
 
 ## Points of improvement
-- few registers usage
+- fewer registers
 - new logic for the multiplication process
 
 ## License
